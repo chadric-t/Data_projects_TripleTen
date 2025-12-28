@@ -1,12 +1,11 @@
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-
 | Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Spreadsheet Data Analysis | The project task was to analyze data to determine which neighborhoods and property sizes are most attractive for vacation rentals and how much money did these listings generate. |
-| 2 | Exploring Startup Trends with SQL | The project task was to analyze employee education impact on startup success. |
-| 3 | Business Analytics Project | The project task was to build a conversion funnel to better understand how users interact with the website, prepare data for cohert analysis based on month of users first purchase and calculate retention rates. |
-| 4 | Data Visualization with Tableau | The project task was to review the Superstore's operations and increase it's profitability to avoid bankruptcy. |
-| 5 | Storytelling with Data | The project task was to prepare analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
-| 6 | Power BI Shopify App Analysis | The project task was to review the landscape of apps on the Shopify platform and figure out what key factors play into the success of a Shopify app. |
+| :-----------: | ----------- | ----------- |
+| 1 | [Spreadsheet Data Analysis](./) | Analyzed neighborhoods and property sizes to determine vacation rental attractiveness and revenue generation. |
+| 2 | [Exploring Startup Trends with SQL](./startup_trends_analysis.sql) | 10-part analysis using CTEs and Joins to determine the impact of employee education on startup success. |
+| 3 | [Business Analytics Project](./) | Built a conversion funnel and performed cohort analysis to calculate user retention rates. |
+| 4 | [Data Visualization with Tableau](./) | Reviewed Superstore operations to identify profitability trends and prevent bankruptcy. |
+| 5 | [Storytelling with Data](./) | Analyzed customer return volumes for the Superstore CEO to identify causes and reduction strategies. |
+| 6 | [Power BI Shopify App Analysis](./) | Evaluated the Shopify app ecosystem to identify key success factors for new applications. |
