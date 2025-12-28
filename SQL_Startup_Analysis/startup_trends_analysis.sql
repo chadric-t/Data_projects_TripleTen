@@ -70,4 +70,5 @@ EmployeeDegrees AS (SELECT people.id, COUNT(education.degree_type) AS num_degree
     WHERE people.company_id IN (SELECT id FROM Closed)
     GROUP BY people.id)
 SELECT AVG(num_degrees)
+
 FROM EmployeeDegrees;
